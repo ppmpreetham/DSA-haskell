@@ -3,8 +3,6 @@ Implementation of Data Structures and popular algorithms using haskell
 
 | Data Structures | |
 | ---- | --- |
-| Linear Search | ✅ |
-| Binary Search | ✅ |
 | Stack | ✅ |
 | Queue | ✅ |
 | Linked List | ✅ |
@@ -17,6 +15,8 @@ Implementation of Data Structures and popular algorithms using haskell
 
 | Algorithms | |
 | ---- | --- |
+| Linear Search | ✅ |
+| Binary Search | ✅ |
 | Bubble Sort | ❌ |
 | Selection Sort | ❌ |
 | Insertion Sort | ❌ |
